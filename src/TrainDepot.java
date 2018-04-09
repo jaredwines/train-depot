@@ -54,7 +54,7 @@ public class TrainDepot extends JFrame {
     String hint = "HINT: " + HintHolderGen();
     Font myFont = new Font("Serif", Font.BOLD, 15);
 
-    //main method
+    // main method
     public static void main(String[] args) {
         TrainDepot train = new TrainDepot();
     }
