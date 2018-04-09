@@ -16,7 +16,7 @@ public class TrainDepotImage extends Component {
 
     public TrainDepotImage() {
         try {
-            img = ImageIO.read(new File("C:\\WowTrain.PNG"));
+            img = ImageIO.read(new File("C:\\Users\\surfe\\GitHub\\train-depot\\image\\WowTrain.PNG"));
         } catch (IOException e) {
         }
 
