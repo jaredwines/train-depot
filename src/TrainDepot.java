@@ -109,7 +109,7 @@ public class TrainDepot extends JFrame {
         panel4.setBackground(Color.BLACK);
         panel5.setBounds(270, 5, 360, 150);
         panel5.setBackground(Color.DARK_GRAY);
-        //text that holds the hint
+        // text that holds the hint
         textRiddle = new JTextArea(hint);
         textRiddle.setFont(myFont);
         textRiddle.setLineWrap(true);
