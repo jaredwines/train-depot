@@ -31,7 +31,7 @@ import java.awt.event.ActionListener;
 import java.util.Random;
 
 public class TrainDepot extends JFrame {
-    //gui private variables
+    // gui private variables
     private JPanel panel;
     private JPanel panel2;
     private JPanel panel3;
