@@ -60,7 +60,7 @@ public class TrainDepot extends JFrame {
     }
 
     public TrainDepot() {
-        // Set the title bar text, window size and action for close button
+        //Set the title bar text, window size and action for close button
         super("Train Depot");
         setSize(652, 555);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
